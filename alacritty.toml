@@ -21,8 +21,8 @@ columns = 60
 lines = 15
 
 [window.padding]
-x = 14
-y = 14
+x = 4
+y = 4
 
 [general]
 import = [
