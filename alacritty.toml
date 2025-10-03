@@ -26,5 +26,5 @@ y = 4
 
 [general]
 import = [
-    "~/.config/alacritty/gruvbox.toml"
+    "~/.config/alacritty/tokyonight.toml"
 ]
