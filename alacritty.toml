@@ -3,17 +3,17 @@ size = 10
 
 [font.bold]
 # family = "Monaspace Radon"
-family = "JetBrains Mono Nerd Font"
+family = "JetBrains Mono"
 style = "Bold"
 
 [font.italic]
 # family = "Monaspace Radon"
-family = "JetBrains Mono Nerd Font"
+family = "JetBrains Mono"
 style = "Italic"
 
 [font.normal]
 # family = "Monaspace Radon"
-family = "JetBrains Mono Nerd Font"
+family = "JetBrains Mono"
 style = "Regular"
 
 [window.dimensions]
